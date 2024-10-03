@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/82b4eabe-1bbe-4cc9-b2e1-dcd011335966)# React Challenge
+![image](https://github.com/user-attachments/assets/c608ff5d-df25-432c-9213-3ea201e8e370)
+
+![image](https://github.com/user-attachments/assets/72b39a33-e4b3-424b-b333-3e86671b8b33)
 
 ## Instructions
 
